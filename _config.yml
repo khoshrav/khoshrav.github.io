@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Khoshrav Doctor"
 title_separator          : "-"
 name                     : &name "Khoshrav Doctor"
-description              : &description "M.S./Ph.D. student in Computer Science at the University of Massachusetts, Amherst"
+description              : &description "Ph.D. student in Computer Science at the University of Massachusetts, Amherst"
 url                      : https://khoshrav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "khoshrav/khoshrav.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Khoshrav Doctor"
   avatar           : "profile.jpg"
-  bio              : "M.S./Ph.D. student in Computer Science at the University of Massachusetts, Amherst. Working at the Laboratory for Perceptual Robotics"
+  bio              : "Ph.D. student in Computer Science at the University of Massachusetts, Amherst. Working at the Laboratory for Perceptual Robotics"
   location         : "Amherst, Massachusetts"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=aPUvAbAAAAAJ"

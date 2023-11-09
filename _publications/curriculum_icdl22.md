@@ -1,5 +1,5 @@
 ---
-title: "Learning Intrinsically Motivated Transition Models for Autonomous Systems"
+title: "Evaluating Sensorimotor Abstraction on Curricula for Learning Mobile Manipulation Skills"
 collection: publications
 permalink: /publication/EvaluatingSensorimotorAbstractiononCurriculaICDL_2022
 excerpt: 'Investigates strategies for learning heirarcial skills in a landscape of attractors.'
