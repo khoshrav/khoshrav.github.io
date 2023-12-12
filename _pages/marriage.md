@@ -9,6 +9,6 @@ redirect_from:
   - /wedding.html
 ---
 
-I am extremely excited to marry Celeste Martinez on the 16th of December 2023 at 2 pm (EST)! Although we will miss having all our friends and family here, we are glad you're at trying to log in from around the globe. Follow this [link](https://umass-amherst.zoom.us/j/92055926851) to watch us get married!
+I am extremely excited to marry Celeste Martinez on the 16th of December 2023 at 2 pm (EST)! Although we will miss having all our friends and family here, we are glad you're trying to log in from around the globe. Follow this [link](https://umass-amherst.zoom.us/j/92055926851) to watch us get married!
 
 Please remember that if you are in India, this would be at 12:30 am on 17th December instead.
