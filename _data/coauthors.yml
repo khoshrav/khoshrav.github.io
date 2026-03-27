@@ -1,34 +1,39 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"dargan":
+  - firstname: ["Kunal"]
+    url: https://sites.google.com/view/kunald
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"dubal":
+  - firstname: ["Pratik"]
+    url: https://pratik08.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"ghosh":
+  - firstname: ["Hia"]
+    url: https://hiaghosh.github.io/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"grupen":
+  - firstname: ["Roderic"]
+    url: https://www.cics.umass.edu/about/directory/roderic-grupen
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"iyer":
+  - firstname: ["Rishabh"]
+    url: https://sites.google.com/view/rishabhiyer/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"jose":
+  - firstname: ["Jorge", "Jorge V"]
+    url: https://medicine.iu.edu/faculty/25528/jose-jorge
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"kaushal":
+  - firstname: ["Vishal"]
+    url: https://www.cse.iitb.ac.in/~vkaushal/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"kothawade":
+  - firstname: ["Suraj"]
+    url: https://surajkothawade.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"plawecki":
+  - firstname: ["Martin", "Martin H"]
+    url: https://medicine.iu.edu/faculty/1629/plawecki-martin
+
+"ramakrishnan":
+  - firstname: ["Ganesh"]
+    url: https://www.cse.iitb.ac.in/~ganesh/

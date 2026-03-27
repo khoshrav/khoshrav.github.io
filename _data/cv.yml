@@ -1,189 +1,423 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Khoshrav Piran Doctor
+  headline: Robotics Researcher
+  label: Robotics Researcher
+  email: kdoctor@cs.umass.edu
+  location: Amherst, MA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Ph.D. candidate in Computer Science at UMass Amherst specializing in robotics and autonomous decision making systems operating under uncertainty. Experienced in building real-world robotic systems, developing learning-based models, and deploying scalable software solutions.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: khoshrav-doctor
+    - network: GitHub
+      username: khoshrav
+    - network: Google Scholar
+      username: aPUvAbAAAAAJ
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    city: Amherst
+    region: Massachusetts
+    postalCode: MA 01002
     countryCode: US
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+    # summary: 
+    #   - Ph.D. candidate in Computer Science at UMass Amherst specializing in robotics and autonomous decision making systems operating under uncertainty. Experienced in building real-world robotic systems, developing learning-based models, and deploying scalable software solutions.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+    Education:
+      - institution: University of Massachusetts Amherst
+        location: Amherst, MA, USA
+        area: Computer Science
+        studyType: Doctorate of Philosophy
+        start_date: 2020
+        end_date: 2026
+        score: "GPA: 3.95"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Laboratory for Perceptual Robotics
+
+      - institution: University of Massachusetts Amherst
+        location: Amherst, MA, USA
+        area: Computer Science
+        studyType: Master of Science
+        start_date: 2017
+        end_date: 2020
+        score: "GPA: 3.94"
+        highlights:
+          - Laboratory for Perceptual Robotics
+          - "Relevant Coursework: Robotics, Reinforcement Learning, Machine Learning, Artificial Intelligence, Feedback Control Systems"
+
+      - institution: K. J. Somaiya College of Engineering
+        location: Mumbai, India
+        area: Information Technology
+        studyType: Bachelor of Engineering
+        start_date: 2012
+        end_date: 2016
+        score: "First Class (GPA 7.1/10)"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Laboratory for Perceptual Robotics, UMass Amherst
+        position: Research Assistant
+        location: Amherst, MA, USA
+        start_date: 2017-08
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed intrinsically motivated methods for learning robot interaction dynamics (4× sample efficiency improvement)
+          - Developed hierarchical skill learning approaches
+          - Implemented control systems for a 3-DOF robotic head
+          - Maintained and repaired the uBot robotic platform
+          - "Technologies: ROS, C++, Python, Deep Learning, Reinforcement Learning, SolidWorks"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Platform for Ethical and Responsible Computing Education (PEaRCE)
+        position: Head Teaching Assistant
+        location: Amherst, MA, USA
+        start_date: 2025-02
+        end_date: 2025-12
         highlights:
-          - Description 1.
-          - Description 2.
+          - Led two teams to integrate ethics into CS curriculum (~1100 students)
+          - Built tools to automate TA workflows and scale operations
+          - Coordinated across students, instructors, and research staff
+          - Led ethics discussion sessions across 5 courses
+          - Improved website usability and infrastructure
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: TRACLabs, Inc.
+        position: Graduate Robotics Intern
+        location: Houston, TX, USA
+        start_date: 2021-09
+        end_date: 2023-08
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed multi-agent systems for teleoperation situational awareness
+          - Improved multi-agent path planning systems
+          - Built RViz plugins and tools for better user interaction
+          - Contributed to research design, writing, and documentation
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Indiana University
+        position: Research Affiliate
+        location: Bloomington, IN, USA
+        start_date: 2016-02
+        end_date: present
+        highlights:
+          - Developed ML methods for detecting ASD and ADHD using IMU data
+          - Designed neuroscience-inspired deep learning models (71% accuracy)
+          - Presented research at neuroscience and physics venues
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: AITOE Video Analytics Pvt. Ltd.
+        position: Software Developer
+        location: Mumbai, India
+        start_date: 2016-07
+        end_date: 2017-07
+        highlights:
+          - Built video analytics platform (search, summarization, statistics)
+          - Developed security features (camera tampering, asset tracking)
+          - Researched object tracking methods (CMT)
+          - Collaborated with clients to define product requirements
+          - "Technologies: C++, NodeJS, Python, PHP, Caffe, QT"
+
+      - company: Computer Society of India, K. J. Somaiya College of Engineering Branch
+        position: Technical Head
+        location: Mumbai, India
+        start_date: 2014-07-01
+        end_date: 2015-06-30
+        highlights:
+          - Developed content and trained council members to deliver workshops and seminars to the student body
+          - Responsible for management of the Technical Team of 4 individuals
+          - Responsible for the quality of the website and Android application of the Council
+          - Organized and delivered numerous workshops, seminars and technical competitions
+
+      - company: Team Eta, K. J. Somaiya College of Engineering
+        location: Mumbai, India
+        summary: Team Eta comprises of a group of students who create a fuel-efficient gasoline prototype vehicle annually to participate at the Shell Eco Marathon Asia. Team Eta ranked 5th in 2015 and was the highest ranked Indian team in its category.
+        position: Electronics Head
+        start_date: 2014-07-01
+        end_date: 2015-06-30
+        highlights:
+          - Responsible for the entire electronic system of the vehicle, including the Engine Control Unit, started motor and kill switch
+          - Designed and implemented an Arduino based GPS tracker to monitor key performance metrics
+
+      - company: Team Eta, K. J. Somaiya College of Engineering
+        location: Mumbai, India
+        position: Drive Train Team
+        start_date: 2013-07-01
+        end_date: 2014-06-30
+        highlights:
+          - Researched possible technologies suited to efficiently transmit torque to the wheels
+          - Fabrication and assembly of the prototype
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Deep learning diagnosis plus kinematic severity assessments of neurodivergent disorders"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "Doctor, Khoshrav P"
+          - "McKeever, Chaundy"
+          - "Wu, Di"
+          - "Phadnis, Aditya"
+          - "Plawecki, Martin H"
+          - "Nurnberger Jr, John I"
+          - "Jose, Jorge V"
+        publisher: "Scientific Reports"
+        releaseDate: "2025"
+        url: https://www.nature.com/articles/s41598-025-04294-9
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Deep Learning and Statistical longitudinal medication studies of attention-deficit/hyperactivity disorder of (ADHD) participants"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "Jose, Jorge V"
+          - "Doctor, Khoshrav"
+          - "McKeever, Chaundy Lee"
+        publisher: "SMT 2025"
+        releaseDate: "2025"
+        url: https://schedule.aps.org/smt/2025/events/MAR-G65/1
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "A family of neurodevelopmental biomarkers extracted from a statistical analysis of kinematic data measured with high-definition sensors"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - "Jose, Jorge"
+          - "Doctor, Khoshrav"
+          - "Phadnis, Aditya"
+          - "McKeever, Chaundy"
+          - "Plawecki, Martin"
+        publisher: "APS March Meeting Abstracts"
+        releaseDate: "2023"
+        url: https://ui.adsabs.harvard.edu/abs/2023APS..MARA11013J/abstract
+
+      - title: "Deep Learning Diagnostic Analysis of the kinematic movement data recorded from individuals with Neurodevelopmental Disorders"
+        authors:
+          - "Doctor, Khoshrav"
+          - "Wu, Di"
+          - "Phadnis, Aditya"
+          - "Plawecki, Martin"
+          - "Nurnberger Jr, John"
+          - "Jose, Jorge"
+        publisher: "APS March Meeting Abstracts"
+        releaseDate: "2022"
+        url: https://ui.adsabs.harvard.edu/abs/2022APS..MARD03003D/abstract
+
+      - title: "Learning Intrinsically Motivated Transition Models for Autonomous Systems"
+        authors:
+          - "Doctor, Khoshrav"
+          - "Ghosh, Hia"
+          - "Grupen, Roderic"
+        publisher: "2022 IEEE International Conference on Development and Learning (ICDL)"
+        releaseDate: "2022"
+        url: https://doi.org/10.1109/ICDL53763.2022.9962188
+
+      - title: "Evaluating Sensorimotor Abstraction on Curricula for Learning Mobile Manipulation Skills"
+        authors:
+          - "Youngquist, Oscar"
+          - "Spiro, Alenna"
+          - "Doctor, Khoshrav"
+          - "Grupen, Roderic"
+        publisher: "2022 IEEE International Conference on Development and Learning (ICDL)"
+        releaseDate: "2022"
+        url: https://doi.org/10.1109/ICDL53763.2022.9962221
+
+      - title: "Statistical Motor Biomarkers Characterizing age-dependence in Neurodevelopmental Disorders"
+        authors:
+          - "Doctor, Khoshrav"
+          - "Wu, Di"
+          - "Phadnis, Aditya"
+          - "Nurnberger, John"
+          - "Plawecki, Martin"
+          - "Jose, Jorge"
+        publisher: "APS March Meeting Abstracts"
+        releaseDate: "2021"
+        url: https://ui.adsabs.harvard.edu/abs/2021APS..MARS12015D/abstract
+
+      - title: "Demystifying multi-faceted video summarization: tradeoff between diversity, representation, coverage and importance"
+        authors:
+          - "Kaushal, Vishal"
+          - "Iyer, Rishabh"
+          - "Doctor, Khoshrav"
+          - "Sahoo, Anurag"
+          - "Dubal, Pratik"
+          - "Kothawade, Suraj"
+          - "Mahadev, Rohan"
+          - "Dargan, Kunal"
+          - "Ramakrishnan, Ganesh"
+        publisher: "2019 IEEE Winter Conference on Applications of Computer Vision (WACV)"
+        releaseDate: "2019"
+        url: https://arxiv.org/abs/1901.01153
+
+      - title: "Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision"
+        authors:
+          - "Kaushal, Vishal"
+          - "Iyer, Rishabh"
+          - "Kothawade, Suraj"
+          - "Mahadev, Rohan"
+          - "Doctor, Khoshrav"
+          - "Ramakrishnan, Ganesh"
+        publisher: "2019 IEEE Winter Conference on Applications of Computer Vision (WACV)"
+        releaseDate: "2019"
+        url: https://doi.org/10.1109/WACV.2019.00142
+
+      - title: "Learning from less data: Diversified subset selection and active learning in image classification tasks"
+        authors:
+          - "Kaushal, Vishal"
+          - "Sahoo, Anurag"
+          - "Doctor, Khoshrav"
+          - "Raju, Narasimha"
+          - "Shetty, Suyash"
+          - "Singh, Pankaj"
+          - "Iyer, Rishabh"
+          - "Ramakrishnan, Ganesh"
+        publisher: "arXiv preprint arXiv:1805.11191"
+        releaseDate: "2018"
+        url: https://arxiv.org/abs/1805.11191
+
+      - title: "A unified multi-faceted video summarization system"
+        authors:
+          - "Sahoo, Anurag"
+          - "Kaushal, Vishal"
+          - "Doctor, Khoshrav"
+          - "Shetty, Suyash"
+          - "Iyer, Rishabh"
+          - "Ramakrishnan, Ganesh"
+        publisher: "arXiv preprint arXiv:1704.01466"
+        releaseDate: "2017"
+        url: https://arxiv.org/abs/1704.01466
+
+      - title: "PowerShare: A distributed processing system for Android devices"
+        authors:
+          - "Kumar, Vignesh Pradeep"
+          - "Jayawant, Shubham"
+          - "Doctor, Khoshrav"
+          - "Vidhani, Sanjay"
+        publisher: "2016 International Conference on Communication and Electronics Systems (ICCES)"
+        releaseDate: "2016"
+        url: https://doi.org/10.1109/CESYS.2016.7889989
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        keywords: "C, C++, Python, Java, MATLAB, Arduino, Processing"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Robotics & ML
+        keywords: "ROS, Reinforcement Learning, Deep Learning, Planning, SolidWorks"
 
-      - name: English
-        summary: "Fluent"
+      - name: Web Development
+        keywords: "HTML, JavaScript, CSS, PHP"
+
+      - name: Databases
+        keywords: "SQL, MongoDB"
+
+    # Skills:
+    #   - label: Programming
+    #     details: "C, C++, Python, Java, MATLAB, Arduino, Processing"
+
+    #   - label: Robotics & ML
+    #     details: "ROS, Reinforcement Learning, Deep Learning, Planning, SolidWorks"
+
+    #   - label: Web Development
+    #     details: "HTML, JavaScript, CSS, PHP"
+
+    #   - label: Databases
+    #     details: "SQL, MongoDB"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Robotics
+        icon: fa-solid fa-robot
+        keywords: "Autonomous Systems, Active Exploration, Robot Learning, POMDPs, Multi-Agent Systems"
+      
+      - name: Computational Neuroscience
+        icon: fa-solid fa-brain
+        keywords: "Neurodevelopmental Disorders, Autism Spectrum Disorder, Attention-Deficit/Hyperactivity Disorder"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Spatial Model Building Using a Robotic Head
+        start_date: 2017-07
+        end_date: 2017-12
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Built probabilistic spatial models using deep learning
+          - Used models for goal-directed action selection
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Chess Automated (Physical Chessboard)
+        start_data: 2014-01
+        end_date: 2016-07
+        highlights:
+          - Developed online and physical hybrid chess system
+          - Built Android control system for robotic board
+          - Debugged Arduino-based X-Y plotter mechanism
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "PowerShare: A Distributed Processing System for Android Devices"
+        start_date: 2015-01
+        end_date: 2016-07
+        highlights:
+          - Developed distributed processing system for Android devices using Bluetooth and WiFi-Direct
+          - Implemented task scheduling and load balancing algorithms
+          - Evaluated system performance on real-world applications
+
+    Teaching:
+      - name: "Teaching Assistant, University of Massachusetts Amherst"
+        start_date: 2017-08
+        end_date: 2025-12
+        highlights:
+          - "COMPSCI 220 (Fall 2017): Programming Methodology"
+          - "COMPSCI 240 (Spring 2018): Reasoning Under Uncertainty"
+          - "COMPSCI 503 (Fall 2018): Embedded Systems Engineering"
+          - "COMPSCI 603 (Spring 2020): Robotics"
+          - "COMPSCI 187 (Fall 2022): Programming with Data Structures"
+          - "COMPSCI 683 (Spring 2023): Artificial Intelligence"
+          - "COMPSCI 589 (Spring 2024): Machine Learning"
+          - "Platform for Ethical and Responsible Computing (Fall 2024, Spring 2025, Fall 2025)"
+
+    Awards:
+      - title: Summer 2024 Dissertation Writing Fellowship
+        date: 2024-06-01
+        awarder: Manning College of Information and Computer Sciences, UMass Amherst
+        
+      - title: Fall 2023 Proposal Writing Fellowship
+        date: 2023-08-01
+        awarder: Manning College of Information and Computer Sciences, UMass Amherst
+        
+      - title: 1st Place Project Competition
+        date: 2016-03-16
+        awarder: Tatva Convergence 2016
+
+      - title: 2nd Place Project Competition
+        date: 2016-03-18
+        awarder: Prakalpa 2016
+
+      - title: Highest Committed Student Branch Activist  
+        date: 2014-12-01
+        awarder: Computer Society of India
+
+      - title: Jewel of Somaiya Award for Outstanding Performance
+        date: 2013-12-01
+        awarder: Somaiya Education Trust
+
+      - title: Cardinal Simon Pimenta Scholarship for Social Service
+        date: 2008-12-01
+        awarder: Campion School, Mumbai 
+
+      - title: Best Cadet Award of the N.C.C Naval Wing Troop 
+        date: 2009-12-01
+        awarder: National Cadet Corps, Campion School Troop, India
+
+    # Awards:
+    #   - name: Summer 2024 Dissertation Writing Fellowship
+    #     date: 2024-06-01
+    #     awarder: Manning College of Information and Computer Sciences, UMass Amherst
+        
+    #   - name: Fall 2023 Proposal Writing Fellowship
+    #     date: 2023-08-01
+    #     awarder: Manning College of Information and Computer Sciences, UMass Amherst
+        
+    #   - name: 1st Place Project Competition
+    #     date: 2016-03-16
+    #     awarder: Tatva Convergence 2016
+
+    #   - name: 2nd Place Project Competition
+    #     date: 2016-03-18
+    #     awarder: Prakalpa 2016
+
+    #   - name: Highest Committed Student Branch Activist  
+    #     date: 2014-12-01
+    #     awarder: Computer Society of India
+
+    #   - name: Jewel of Somaiya Award for Outstanding Performance
+    #     date: 2013-12-01
+    #     awarder: Somaiya Education Trust
+
+    #   - name: Cardinal Simon Pimenta Scholarship for Social Service
+    #     date: 2008-12-01
+    #     awarder: Campion School, Mumbai 
+
+    #   - name: Best Cadet Award of the N.C.C Naval Wing Troop 
+    #     date: 2009-12-01
+    #     awarder: National Cadet Corps, Campion School Troop, India

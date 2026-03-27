@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Defended my PhD dissertation. Teaching robots to learn from direct interaction and act under uncertainty and partial observability. (Yes, that makes me Dr. Doctor.)
+Successfully defended my PhD dissertation. Teaching robots to learn from direct interaction and act under uncertainty and partial observability. (Yes, that makes me Dr. Doctor.)
