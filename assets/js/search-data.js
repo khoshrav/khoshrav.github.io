@@ -4,13 +4,13 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/personal_website/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/personal_website/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          title: "Teaching",
+          description: "Courses I&#39;ve TA-ed for:",
           section: "Navigation",
           handler: () => {
             window.location.href = "/personal_website/teaching/";
@@ -33,16 +33,46 @@ ninja.data = [{
         },{id: "news-successfully-defended-my-phd-dissertation-teaching-robots-to-learn-from-direct-interaction-and-act-under-uncertainty-and-partial-observability-yes-that-makes-me-dr-doctor",
           title: 'Successfully defended my PhD dissertation. Teaching robots to learn from direct interaction and...',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          section: "News",},{id: "teachings-compsci-187-programming-with-data-structures",
+          title: 'COMPSCI 187 - Programming with Data Structures',
+          description: "Teaching Assistant for COMPSCI 187 (Fall 2022) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/personal_website/teachings/compsci-187-programming-with-data-structures/";
+            },},{id: "teachings-compsci-220-programming-methodology",
+          title: 'COMPSCI 220 - Programming Methodology',
+          description: "Teaching Assistant for COMPSCI 220 (Fall 2017) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/introduction-to-machine-learning/";
+              window.location.href = "/personal_website/teachings/compsci-220-programming-methodology/";
+            },},{id: "teachings-compsci-240-reasoning-under-uncertainty",
+          title: 'COMPSCI 240 - Reasoning Under Uncertainty',
+          description: "Teaching Assistant for COMPSCI 240 (Spring 2018) at UMass Amherst.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/personal_website/teachings/compsci-240-reasoning-under-uncertainty/";
+            },},{id: "teachings-compsci-503-embedded-systems-engineering",
+          title: 'COMPSCI 503 - Embedded Systems Engineering',
+          description: "Teaching Assistant for COMPSCI 503 (Fall 2018) at UMass Amherst.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/personal_website/teachings/compsci-503-embedded-systems-engineering/";
+            },},{id: "teachings-compsci-589-machine-learning",
+          title: 'COMPSCI 589 - Machine Learning',
+          description: "Teaching Assistant for COMPSCI 589 (Spring 2024) at UMass Amherst.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/personal_website/teachings/compsci-589-machine-learning/";
+            },},{id: "teachings-compsci-603-robotics",
+          title: 'COMPSCI 603 - Robotics',
+          description: "Teaching Assistant for COMPSCI 603 (Spring 2020) at UMass Amherst.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/personal_website/teachings/compsci-603-robotics/";
+            },},{id: "teachings-compsci-683-artificial-intelligence",
+          title: 'COMPSCI 683 - Artificial Intelligence',
+          description: "Teaching Assistant for COMPSCI 683 (Spring 2023) at UMass Amherst.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/personal_website/teachings/compsci-683-artificial-intelligence/";
+            },},{id: "teachings-platform-for-ethical-and-responsible-computing",
+          title: 'Platform for Ethical and Responsible Computing',
+          description: "Teaching support across Fall 2024, Spring 2025, and Fall 2025 at UMass Amherst.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/personal_website/teachings/pearce-ethical-and-responsible-computing/";
             },},{
         id: 'social-cv',
         title: 'CV',
