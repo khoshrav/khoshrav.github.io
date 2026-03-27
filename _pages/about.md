@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.umass.edu/robotics/lpr'>Laboratory for Perceptual Robotics, MCICS, UMass Amherst</a>
 
