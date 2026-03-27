@@ -9,10 +9,10 @@ last_name: Doctor
 contact_note: Email is a great way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personl website for Khoshrav Doctor.
-footer_text: 
+footer_text:
 keywords: robotics, autonomous systems, machine learning, reinforcement learning, partial observability, POMDP # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://khoshrav.github.io/ # the base hostname & protocol for your site
 baseurl: /personal_website # the subpath of your site, e.g. /blog/. Leave blank for root
