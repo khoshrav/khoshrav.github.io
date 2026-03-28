@@ -21,12 +21,13 @@
                 <span class="course-instructor">{{ course.instructor }}</span>
               {% endif %}
             </div>
-
-            {% if course.description %}
-              <div class="course-description">
-                {{ course.description | markdownify }}
-              </div>
-            {% endif %}
+            {% comment %}
+              {% if course.description %}
+                <div class="course-description">
+                  {{ course.description | markdownify }}
+                </div>
+              {% endif %}
+            {% endcomment %}
           </div>
         {% endfor %}
       </div>

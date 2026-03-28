@@ -8,6 +8,4 @@ term: Spring
 course_id: compsci-240-reasoning-under-uncertainty
 ---
 
-Teaching Assistant for COMPSCI 240: Reasoning Under Uncertainty.
-
 Helped students with probabilistic reasoning topics, assignment troubleshooting, and exam preparation in weekly office hours and recitation support.

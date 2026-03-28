@@ -8,6 +8,4 @@ term: Fall
 course_id: compsci-220-programming-methodology
 ---
 
-Teaching Assistant for COMPSCI 220: Programming Methodology.
-
 Supported students through labs and office hours, with an emphasis on core programming skills, debugging, and foundational software development practices.

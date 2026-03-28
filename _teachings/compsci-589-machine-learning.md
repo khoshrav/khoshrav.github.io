@@ -8,6 +8,4 @@ term: Spring
 course_id: compsci-589-machine-learning
 ---
 
-Teaching Assistant for COMPSCI 589: Machine Learning.
-
 Core support included assignments, office hours, grading, and helping students build foundational skills in supervised and unsupervised learning.

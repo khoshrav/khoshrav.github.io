@@ -22,7 +22,7 @@ cv:
     countryCode: US
 
   sections:
-    # summary: 
+    # summary:
     #   - Ph.D. candidate in Computer Science at UMass Amherst specializing in robotics and autonomous decision making systems operating under uncertainty. Experienced in building real-world robotic systems, developing learning-based models, and deploying scalable software solutions.
 
     Education:
@@ -136,7 +136,7 @@ cv:
 
       - company: Team Eta, K. J. Somaiya College of Engineering
         location: Mumbai, India
-        position: Drive Train Team
+        position: Drivetrain Team
         start_date: 2013-07-01
         end_date: 2014-06-30
         highlights:
@@ -313,7 +313,7 @@ cv:
       - name: Robotics
         icon: fa-solid fa-robot
         keywords: "Autonomous Systems, Active Exploration, Robot Learning, POMDPs, Multi-Agent Systems"
-      
+
       - name: Computational Neuroscience
         icon: fa-solid fa-brain
         keywords: "Neurodevelopmental Disorders, Autism Spectrum Disorder, Attention-Deficit/Hyperactivity Disorder"
@@ -347,24 +347,24 @@ cv:
         start_date: 2017-08
         end_date: 2025-12
         highlights:
-          - "COMPSCI 220 (Fall 2017): Programming Methodology"
-          - "COMPSCI 240 (Spring 2018): Reasoning Under Uncertainty"
-          - "COMPSCI 503 (Fall 2018): Embedded Systems Engineering"
-          - "COMPSCI 603 (Spring 2020): Robotics"
-          - "COMPSCI 187 (Fall 2022): Programming with Data Structures"
-          - "COMPSCI 683 (Spring 2023): Artificial Intelligence"
-          - "COMPSCI 589 (Spring 2024): Machine Learning"
           - "Platform for Ethical and Responsible Computing (Fall 2024, Spring 2025, Fall 2025)"
+          - "COMPSCI 589 (Spring 2024): Machine Learning"
+          - "COMPSCI 683 (Spring 2023): Artificial Intelligence"
+          - "COMPSCI 187 (Fall 2022): Programming with Data Structures"
+          - "COMPSCI 603 (Spring 2020): Robotics"
+          - "COMPSCI 503 (Fall 2018): Embedded Systems Engineering"
+          - "COMPSCI 240 (Spring 2018): Reasoning Under Uncertainty"
+          - "COMPSCI 220 (Fall 2017): Programming Methodology"
 
     Awards:
       - title: Summer 2024 Dissertation Writing Fellowship
         date: 2024-06-01
         awarder: Manning College of Information and Computer Sciences, UMass Amherst
-        
+
       - title: Fall 2023 Proposal Writing Fellowship
         date: 2023-08-01
         awarder: Manning College of Information and Computer Sciences, UMass Amherst
-        
+
       - title: 1st Place Project Competition
         date: 2016-03-16
         awarder: Tatva Convergence 2016
@@ -373,7 +373,7 @@ cv:
         date: 2016-03-18
         awarder: Prakalpa 2016
 
-      - title: Highest Committed Student Branch Activist  
+      - title: Highest Committed Student Branch Activist
         date: 2014-12-01
         awarder: Computer Society of India
 
@@ -381,23 +381,23 @@ cv:
         date: 2013-12-01
         awarder: Somaiya Education Trust
 
+      - title: Best Cadet Award of the N.C.C Naval Wing Troop
+        date: 2009-12-01
+        awarder: National Cadet Corps, Campion School Troop, India\
+
       - title: Cardinal Simon Pimenta Scholarship for Social Service
         date: 2008-12-01
-        awarder: Campion School, Mumbai 
-
-      - title: Best Cadet Award of the N.C.C Naval Wing Troop 
-        date: 2009-12-01
-        awarder: National Cadet Corps, Campion School Troop, India
+        awarder: Campion School, Mumbai
 
     # Awards:
     #   - name: Summer 2024 Dissertation Writing Fellowship
     #     date: 2024-06-01
     #     awarder: Manning College of Information and Computer Sciences, UMass Amherst
-        
+
     #   - name: Fall 2023 Proposal Writing Fellowship
     #     date: 2023-08-01
     #     awarder: Manning College of Information and Computer Sciences, UMass Amherst
-        
+
     #   - name: 1st Place Project Competition
     #     date: 2016-03-16
     #     awarder: Tatva Convergence 2016
@@ -406,7 +406,7 @@ cv:
     #     date: 2016-03-18
     #     awarder: Prakalpa 2016
 
-    #   - name: Highest Committed Student Branch Activist  
+    #   - name: Highest Committed Student Branch Activist
     #     date: 2014-12-01
     #     awarder: Computer Society of India
 
@@ -414,10 +414,10 @@ cv:
     #     date: 2013-12-01
     #     awarder: Somaiya Education Trust
 
-    #   - name: Cardinal Simon Pimenta Scholarship for Social Service
-    #     date: 2008-12-01
-    #     awarder: Campion School, Mumbai 
-
-    #   - name: Best Cadet Award of the N.C.C Naval Wing Troop 
+    #   - name: Best Cadet Award of the N.C.C Naval Wing Troop
     #     date: 2009-12-01
     #     awarder: National Cadet Corps, Campion School Troop, India
+
+    #   - name: Cardinal Simon Pimenta Scholarship for Social Service
+    #     date: 2008-12-01
+    #     awarder: Campion School, Mumbai

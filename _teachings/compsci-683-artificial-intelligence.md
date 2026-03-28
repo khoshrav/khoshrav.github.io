@@ -8,7 +8,4 @@ term: Spring
 course_id: compsci-683-artificial-intelligence
 ---
 
-Teaching Assistant for COMPSCI 683: Artificial Intelligence.
-
 Course support focused on helping students with search, planning, reasoning under uncertainty, and project guidance through office hours and grading support.
-
