@@ -7,28 +7,28 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/personal_website/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal_website/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal_website/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Teaching Assistantships at Manning College of Information and Computer Sciences, UMass Amherst",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/personal_website/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "news-successfully-defended-my-phd-dissertation-teaching-robots-to-learn-from-direct-interaction-and-act-under-uncertainty-and-partial-observability-yes-that-makes-me-dr-doctor",
           title: 'Successfully defended my PhD dissertation. Teaching robots to learn from direct interaction and...',
@@ -37,48 +37,48 @@ ninja.data = [{
           title: 'COMPSCI 187 - Programming with Data Structures',
           description: "Teaching Assistant for COMPSCI 187 (Fall 2022) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/compsci-187-programming-with-data-structures/";
+              window.location.href = "/teachings/compsci-187-programming-with-data-structures/";
             },},{id: "teachings-compsci-220-programming-methodology",
           title: 'COMPSCI 220 - Programming Methodology',
           description: "Teaching Assistant for COMPSCI 220 (Fall 2017) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/compsci-220-programming-methodology/";
+              window.location.href = "/teachings/compsci-220-programming-methodology/";
             },},{id: "teachings-compsci-240-reasoning-under-uncertainty",
           title: 'COMPSCI 240 - Reasoning Under Uncertainty',
           description: "Teaching Assistant for COMPSCI 240 (Spring 2018) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/compsci-240-reasoning-under-uncertainty/";
+              window.location.href = "/teachings/compsci-240-reasoning-under-uncertainty/";
             },},{id: "teachings-compsci-503-embedded-systems-engineering",
           title: 'COMPSCI 503 - Embedded Systems Engineering',
           description: "Teaching Assistant for COMPSCI 503 (Fall 2018) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/compsci-503-embedded-systems-engineering/";
+              window.location.href = "/teachings/compsci-503-embedded-systems-engineering/";
             },},{id: "teachings-compsci-589-machine-learning",
           title: 'COMPSCI 589 - Machine Learning',
           description: "Teaching Assistant for COMPSCI 589 (Spring 2024) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/compsci-589-machine-learning/";
+              window.location.href = "/teachings/compsci-589-machine-learning/";
             },},{id: "teachings-compsci-603-robotics",
           title: 'COMPSCI 603 - Robotics',
           description: "Teaching Assistant for COMPSCI 603 (Spring 2020) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/compsci-603-robotics/";
+              window.location.href = "/teachings/compsci-603-robotics/";
             },},{id: "teachings-compsci-683-artificial-intelligence",
           title: 'COMPSCI 683 - Artificial Intelligence',
           description: "Teaching Assistant for COMPSCI 683 (Spring 2023) at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/compsci-683-artificial-intelligence/";
+              window.location.href = "/teachings/compsci-683-artificial-intelligence/";
             },},{id: "teachings-platform-for-ethical-and-responsible-computing",
           title: 'Platform for Ethical and Responsible Computing',
           description: "Teaching support across Fall 2024, Spring 2025, and Fall 2025 at UMass Amherst.",
           section: "Teachings",handler: () => {
-              window.location.href = "/personal_website/teachings/pearce-ethical-and-responsible-computing/";
+              window.location.href = "/teachings/pearce-ethical-and-responsible-computing/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/personal_website/assets/pdf/Khoshrav_Doctor_Resume.pdf", "_blank");
+          window.open("/assets/pdf/Khoshrav_Doctor_Resume.pdf", "_blank");
         },
       },{
         id: 'social-email',
