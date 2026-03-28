@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Courses I&#39;ve TA-ed for:",
+          description: "Teaching Assistantships at Manning College of Information and Computer Sciences, UMass Amherst",
           section: "Navigation",
           handler: () => {
             window.location.href = "/personal_website/teaching/";
