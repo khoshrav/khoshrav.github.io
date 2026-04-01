@@ -1,7 +1,7 @@
 cv:
   name: Khoshrav Piran Doctor
-  headline: Robotics Researcher
-  label: Robotics Researcher
+  headline: Computer Scientist & Robotics Researcher
+  label: Computer Scientist & Robotics Researcher
   email: kdoctor@cs.umass.edu
   location: Amherst, MA
   image: ""
@@ -62,11 +62,21 @@ cv:
         start_date: 2017-08
         end_date: present
         highlights:
-          - Designed intrinsically motivated methods for learning robot interaction dynamics (4× sample efficiency improvement)
-          - Developed hierarchical skill learning approaches
-          - Implemented control systems for a 3-DOF robotic head
-          - Maintained and repaired the uBot robotic platform
-          - "Technologies: ROS, C++, Python, Deep Learning, Reinforcement Learning, SolidWorks"
+          - Developed learning-based exploration and model-learning methods for partially observable robotic systems, improving sample efficiency by up to 4× and enabling more effective belief space planning under uncertainty
+          - Investigated methods to learn reusable skills hierarchically to speed up grasping and transport of objects
+          - Implemented control systems for a 3 degree of freedom robotic head with an RGB-D camera
+          - Performed routine diagnosis, maintenance and repair in the uBot robotic platform
+          - "Technologies used: ROS (C++ and Python development), Gazebo, Deep Learning, Reinforcement Learning"
+
+      - company: Indiana University
+        position: Research Affiliate
+        location: Bloomington, IN, USA
+        start_date: 2016-02
+        end_date: present
+        highlights:
+          - Analyzed IMU movement data to develop computational, non-invasive and objective approaches for detecting Autism Spectrum Disorder, Attention-Deficit/Hyperactivity Disorder and their comorbidity
+          - Designed Deep Learning and Machine Learning algorithms based on systems neuroscience to achieve 71% accuracy
+          - Published and presented relevant work at numerous physics and neuroscience meetings
 
       - company: Platform for Ethical and Responsible Computing Education (PEaRCE)
         position: Head Teaching Assistant
@@ -86,20 +96,11 @@ cv:
         start_date: 2021-09
         end_date: 2023-08
         highlights:
-          - Developed multi-agent systems for teleoperation situational awareness
-          - Improved multi-agent path planning systems
-          - Built RViz plugins and tools for better user interaction
-          - Contributed to research design, writing, and documentation
+          - Developed multi-agent coordination systems to improve teleoperator situational awareness by leveraging additional heterogeneous robotic agents
+          - Improved multi-agent path planning algorithms for real-time robotic systems
+          - Built visualization and debugging tools (RViz) to analyze planning behavior, system performance, and failure modes
+          - Contributed towards experimental design and writing for research papers, reports, and documentation of projects
 
-      - company: Indiana University
-        position: Research Affiliate
-        location: Bloomington, IN, USA
-        start_date: 2016-02
-        end_date: present
-        highlights:
-          - Developed ML methods for detecting ASD and ADHD using IMU data
-          - Designed neuroscience-inspired deep learning models (71% accuracy)
-          - Presented research at neuroscience and physics venues
 
       - company: AITOE Video Analytics Pvt. Ltd.
         position: Software Developer
@@ -107,11 +108,11 @@ cv:
         start_date: 2016-07
         end_date: 2017-07
         highlights:
-          - Built video analytics platform (search, summarization, statistics)
-          - Developed security features (camera tampering, asset tracking)
-          - Researched object tracking methods (CMT)
-          - Collaborated with clients to define product requirements
-          - "Technologies: C++, NodeJS, Python, PHP, Caffe, QT"
+          - Designed and implemented online video analysis platform Newton for Search, Summarization and Statistics
+          - Developed and maintained aiSentinel Security Suite features like Camera Tampering Detection and Asset Tracking
+          - Researched technologies such as CMT to be implemented for Object Tracking
+          - Interacted directly with potential clients to identify and implement their requirements into our products
+          - "Technologies used: C++, NodeJS, Python, PHP, Caffe, QT"
 
       - company: Computer Society of India, K. J. Somaiya College of Engineering Branch
         position: Technical Head
@@ -317,6 +318,15 @@ cv:
       - name: Computational Neuroscience
         icon: fa-solid fa-brain
         keywords: "Neurodevelopmental Disorders, Autism Spectrum Disorder, Attention-Deficit/Hyperactivity Disorder"
+
+    # Interests:
+    #   - label: Robotics
+    #     icon: fa-solid fa-robot
+    #     details: "Autonomous Systems, Active Exploration, Robot Learning, POMDPs, Multi-Agent Systems"
+
+    #   - label: Computational Neuroscience
+    #     icon: fa-solid fa-brain
+    #     details: "Neurodevelopmental Disorders, Autism Spectrum Disorder, Attention-Deficit/Hyperactivity Disorder"
 
     Projects:
       - name: Spatial Model Building Using a Robotic Head
