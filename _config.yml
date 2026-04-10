@@ -8,7 +8,7 @@ middle_name: Piran
 last_name: Doctor
 contact_note: Email is a great way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personl website for Khoshrav Doctor.
+  Personal website for Khoshrav Doctor.
 footer_text:
 keywords: robotics, autonomous systems, machine learning, reinforcement learning, partial observability, POMDP # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
