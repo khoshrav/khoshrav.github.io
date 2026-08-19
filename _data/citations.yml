@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-19'
 papers:
   aPUvAbAAAAAJ:2osOgNQ5qMEC:
-    citations: 96
+    citations: 97
     title: 'Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision'
     year: '2019'
   aPUvAbAAAAAJ:9yKSN-GCB0IC:
